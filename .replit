@@ -1,0 +1,1 @@
+run="rm *.o;gcc -Wall -g -c week_01.c -o week_01.o;gcc -o main main.c week_01.o;./main 4 5"
