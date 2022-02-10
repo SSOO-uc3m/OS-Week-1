@@ -27,15 +27,14 @@ void problem_04 (int argc, char *argv[]);
 
 /*Problem 5:
 Write a program that takes two real numbers as input and prints their sum to 3 decimal places. To add them, a function “add” must be declared that adds both numbers and returns the result.*/
-float sumar (float a, float b);
+void problem_05 (int argc, char *argv[]);
 
 /*Problem 6:
 Write a program that takes an integer as an input argument, declares a 10-element vector, initializes it with the argument, and adds the 10 elements of the vector using first for and then while. The results of both sums will be printed on the screen.*/
-void problem_06();
+void problem_06(int argc, char *argv[]) ;
 
 /*Problem 7:
 Modify the above program so that the sum of the 10 elements of the vector is done in a function. The function will return the sum as a result, which will be printed on the screen.*/
-
 void problem_07();
 
 /*Problem 8:
